@@ -10,7 +10,7 @@
         }
 
         .container::before {
-            content: "Before Elemtent";
+            content: "Before Element";
             color: red;
             font-size: 20px;
         }
